@@ -96,6 +96,7 @@ with cross-functional teams to optimize business performance.
 
 <br/>
 <br/>
+---
 
 ### 📊 Projects
 
@@ -103,17 +104,10 @@ with cross-functional teams to optimize business performance.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="600" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3"
   />
 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
