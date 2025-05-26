@@ -105,7 +105,7 @@ with cross-functional teams to optimize business performance.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![Captura de Tela 2025-05-26 às 11 38 24](https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3)" 
+    src=![Captura de Tela 2025-05-26 às 11 38 24](https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3)
   />
 
 
