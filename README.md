@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Larissa Kich
+# 🧑🏽‍💻 Bruno Zaghetti
 
 **`Data Analyst`**
 
@@ -105,8 +105,9 @@ with cross-functional teams to optimize business performance.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![Captura de Tela 2025-05-26 às 11 38 24](https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3)" 
   />
+
 
 <img 
       align="left" 
