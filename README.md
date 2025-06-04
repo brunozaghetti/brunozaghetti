@@ -104,13 +104,15 @@ with cross-functional teams to optimize business performance.
 ### 📊 Projects
 
 <p>
+<a href="https://public.tableau.com/app/profile/bruno.zaghetti/viz/Netflix_17399926322710/DashboardNetflix" target="_blank">
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Bruno Zaghetti - Tableau Public" 
     height="600" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3"
+    
   />
-
+</a>
 
 </p>
