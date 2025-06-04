@@ -111,8 +111,8 @@ with cross-functional teams to optimize business performance.
     height="600" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/060519cc-b57d-4e81-966c-bb7f1ae588e3"
-    
+  </a>  
   />
-</a>
+
 
 </p>
